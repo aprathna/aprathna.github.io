@@ -1,0 +1,49 @@
+/* tell me more button color change*/
+.btn-xl {
+    background-color: #ff7673; 
+    border-color: #ff7673;	
+}
+
+/* Tangoidy logo color change*/
+.navbar-custom .navbar-brand {
+    color: #ff7673;
+}
+
+/* Navbar menu button logo change*/
+.navbar-custom .navbar-toggle {
+    background-color: #ff7673;
+    border-color: #ff7673; 
+}
+
+/* 'Be part of our story' image color change*/
+.timeline>li .timeline-image {
+    background-color: #ff7673;
+}
+
+/* 'Services' logo images color change*/
+.text-primary, a {
+    color: #ff7673;
+}
+
+/* hover over portfolio item color change*/
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: #ff7673;
+}
+
+/* all body elements color change*/
+body {
+     font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     webkit-tap-highlight-color: #ff7673
+}
+
+::-moz-selection {
+     text-shadow: none;
+     background: #ff7673
+ }
+ 
+ ::selection {
+     text-shadow: none;
+     background: #ff7673
+ }
+
+ 
